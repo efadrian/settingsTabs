@@ -1,0 +1,17 @@
+[
+  {
+    "Email": "user1@example.com",
+    "Title": "Welcome Email",
+    "Body": "Welcome to our service!"
+  },
+  {
+    "Email": "user2@example.com",
+    "Title": "Update Notification",
+    "Body": "Your account has been updated."
+  },
+  {
+    "Email": "user3@example.com",
+    "Title": "Newsletter",
+    "Body": "Check out our latest news."
+  }
+]
