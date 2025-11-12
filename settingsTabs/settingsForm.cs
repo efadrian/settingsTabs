@@ -4,7 +4,8 @@ namespace WinSettingsTabs
 {
     public partial class Form1 : Form
     {
-        private Dictionary<string, Type> settingsControls;
+        private Dictionary<string, Type>? settingsControls;
+        public string dataPath = $"{AppDomain.CurrentDomain.BaseDirectory}/Data/";
 
         public Form1()
         {
@@ -40,7 +41,7 @@ namespace WinSettingsTabs
             }
         }
 
-        private void TreeView_AfterSelect(object sender, TreeViewEventArgs e)
+        private void TreeView_AfterSelect(object? sender, TreeViewEventArgs e)
         {
             mainPanel.Controls.Clear();
             if (settingsControls.TryGetValue(e.Node.Text, out var type))

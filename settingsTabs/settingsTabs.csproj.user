@@ -4,13 +4,13 @@
     <Compile Update="settingsForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="uc_Settings - EmailData.cs">
+    <Compile Update="uc_Settings_EmailData.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="uc_Settings3.cs">
+    <Compile Update="uc_Settings_TradeList.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="uc_Settings2.cs">
+    <Compile Update="uc_Settings_StockList.cs">
       <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>

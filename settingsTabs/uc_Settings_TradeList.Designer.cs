@@ -1,6 +1,6 @@
 ﻿namespace WinSettingsTabs
 {
-    partial class uc_Settings2
+    partial class uc_Settings_TradeList
     {
         /// <summary> 
         /// Required designer variable.
@@ -28,53 +28,40 @@
         /// </summary>
         private void InitializeComponent()
         {
-            checkBox1 = new CheckBox();
             textBox1 = new TextBox();
             button1 = new Button();
             SuspendLayout();
             // 
-            // checkBox1
-            // 
-            checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(46, 85);
-            checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(83, 19);
-            checkBox1.TabIndex = 0;
-            checkBox1.Text = "checkBox1";
-            checkBox1.UseVisualStyleBackColor = true;
-            // 
             // textBox1
             // 
-            textBox1.Location = new Point(46, 119);
+            textBox1.Location = new Point(13, 17);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(180, 23);
-            textBox1.TabIndex = 1;
+            textBox1.Size = new Size(202, 23);
+            textBox1.TabIndex = 3;
             // 
             // button1
             // 
-            button1.Location = new Point(151, 164);
+            button1.Location = new Point(13, 46);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 2;
-            button1.Text = "button1";
+            button1.Text = "Trade";
             button1.UseVisualStyleBackColor = true;
             // 
-            // uc_Settings2
+            // uc_Settings_TradeList
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            Controls.Add(button1);
             Controls.Add(textBox1);
-            Controls.Add(checkBox1);
-            Name = "uc_Settings2";
-            Size = new Size(487, 376);
+            Controls.Add(button1);
+            Name = "uc_Settings_TradeList";
+            Size = new Size(700, 400);
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private CheckBox checkBox1;
         private TextBox textBox1;
         private Button button1;
     }

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WinSettingsTabs
 {
-    public partial class uc_Settings3 : UserControl
+    public partial class uc_Settings_TradeList : UserControl
     {
-        public uc_Settings3()
+        public uc_Settings_TradeList()
         {
             InitializeComponent();
         }

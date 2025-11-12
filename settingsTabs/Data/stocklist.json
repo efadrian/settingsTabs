@@ -1,0 +1,62 @@
+[
+  {
+    "StockId": "AAPL",
+    "StockName": "Apple Inc.",
+    "StockDescription": "Technology company that designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories.",
+    "StockPrice": "150.00"
+  },
+  {
+    "StockId": "MSFT",
+    "StockName": "Microsoft Corporation",
+    "StockDescription": "Technology company that produces computer software, consumer electronics, personal computers, and related services.",
+    "StockPrice": "250.00"
+  },
+  {
+    "StockId": "AMZN",
+    "StockName": "Amazon.com Inc.",
+    "StockDescription": "Multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+    "StockPrice": "3000.00"
+  },
+  {
+    "StockId": "GOOGL",
+    "StockName": "Alphabet Inc.",
+    "StockDescription": "Multinational technology conglomerate holding company headquartered in Mountain View, California.",
+    "StockPrice": "2500.00"
+  },
+  {
+    "StockId": "TSLA",
+    "StockName": "Tesla Inc.",
+    "StockDescription": "American electric vehicle and clean energy company based in Palo Alto, California.",
+    "StockPrice": "800.00"
+  },
+  {
+    "StockId": "NVDA",
+    "StockName": "NVIDIA Corporation",
+    "StockDescription": "American multinational technology company incorporated in Delaware and based in Santa Clara, California.",
+    "StockPrice": "400.00"
+  },
+  {
+    "StockId": "META",
+    "StockName": "Meta Platforms Inc.",
+    "StockDescription": "American multinational technology conglomerate headquartered in Menlo Park, California.",
+    "StockPrice": "300.00"
+  },
+  {
+    "StockId": "BRK.B",
+    "StockName": "Berkshire Hathaway Inc.",
+    "StockDescription": "American multinational conglomerate holding company headquartered in Omaha, Nebraska.",
+    "StockPrice": "350.00"
+  },
+  {
+    "StockId": "JPM",
+    "StockName": "JPMorgan Chase & Co.",
+    "StockDescription": "American multinational investment bank and financial services holding company headquartered in New York City.",
+    "StockPrice": "140.00"
+  },
+  {
+    "StockId": "JNJ",
+    "StockName": "Johnson & Johnson",
+    "StockDescription": "American multinational pharmaceutical, biotechnology, and medical technologies corporation headquartered in New Brunswick, New Jersey.",
+    "StockPrice": "170.00"
+  }
+]

@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\GitHub\\settingsTabs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|d:\\github\\settingstabs\\settingstabs\\uc_settings - emaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|solutionrelative:settingstabs\\uc_settings - emaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|d:\\github\\settingstabs\\settingstabs\\uc_settings_tradelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|solutionrelative:settingstabs\\uc_settings_tradelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|d:\\github\\settingstabs\\settingstabs\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|solutionrelative:settingstabs\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|d:\\github\\settingstabs\\settingstabs\\uc_settings_stocklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|solutionrelative:settingstabs\\uc_settings_stocklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|d:\\github\\settingstabs\\settingstabs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|solutionrelative:settingstabs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|d:\\github\\settingstabs\\settingstabs\\uc_settings_stocklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|solutionrelative:settingstabs\\uc_settings_stocklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|d:\\github\\settingstabs\\settingstabs\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|solutionrelative:settingstabs\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|d:\\github\\settingstabs\\settingstabs\\data\\email_list.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|solutionrelative:settingstabs\\data\\email_list.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|d:\\github\\settingstabs\\settingstabs\\uc_settings_emaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|solutionrelative:settingstabs\\uc_settings_emaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BF630AA-9545-4676-8C68-BA7EEA4CC85F}|settingsTabs\\settingsTabs.csproj|d:\\github\\settingstabs\\settingstabs\\model\\emaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,51 +46,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "uc_Settings - EmailData.cs",
-              "DocumentMoniker": "D:\\GitHub\\settingsTabs\\settingsTabs\\uc_Settings - EmailData.cs",
-              "RelativeDocumentMoniker": "settingsTabs\\uc_Settings - EmailData.cs",
-              "ToolTip": "D:\\GitHub\\settingsTabs\\settingsTabs\\uc_Settings - EmailData.cs",
-              "RelativeToolTip": "settingsTabs\\uc_Settings - EmailData.cs",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAmwKMAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "uc_Settings_StockList.cs",
+              "DocumentMoniker": "D:\\GitHub\\settingsTabs\\settingsTabs\\uc_Settings_StockList.cs",
+              "RelativeDocumentMoniker": "settingsTabs\\uc_Settings_StockList.cs",
+              "ToolTip": "D:\\GitHub\\settingsTabs\\settingsTabs\\uc_Settings_StockList.cs",
+              "RelativeToolTip": "settingsTabs\\uc_Settings_StockList.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAcwJIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T10:23:38.971Z",
+              "WhenOpened": "2025-11-11T13:41:13.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "settingsForm.cs [Design]",
-              "DocumentMoniker": "D:\\GitHub\\settingsTabs\\settingsTabs\\settingsForm.cs",
-              "RelativeDocumentMoniker": "settingsTabs\\settingsForm.cs",
-              "ToolTip": "D:\\GitHub\\settingsTabs\\settingsTabs\\settingsForm.cs [Design]",
-              "RelativeToolTip": "settingsTabs\\settingsForm.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "uc_Settings_StockList.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\settingsTabs\\settingsTabs\\uc_Settings_StockList.cs",
+              "RelativeDocumentMoniker": "settingsTabs\\uc_Settings_StockList.cs",
+              "ToolTip": "D:\\GitHub\\settingsTabs\\settingsTabs\\uc_Settings_StockList.cs [Design]",
+              "RelativeToolTip": "settingsTabs\\uc_Settings_StockList.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T10:23:11.783Z",
+              "WhenOpened": "2025-11-11T13:26:04.949Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\settingsTabs\\settingsTabs\\Program.cs",
-              "RelativeDocumentMoniker": "settingsTabs\\Program.cs",
-              "ToolTip": "D:\\GitHub\\settingsTabs\\settingsTabs\\Program.cs",
-              "RelativeToolTip": "settingsTabs\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "uc_Settings_EmailData.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\settingsTabs\\settingsTabs\\uc_Settings_EmailData.cs",
+              "RelativeDocumentMoniker": "settingsTabs\\uc_Settings_EmailData.cs",
+              "ToolTip": "D:\\GitHub\\settingsTabs\\settingsTabs\\uc_Settings_EmailData.cs [Design]",
+              "RelativeToolTip": "settingsTabs\\uc_Settings_EmailData.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T10:23:05.488Z",
+              "WhenOpened": "2025-11-11T12:38:56.289Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "uc_Settings_TradeList.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\settingsTabs\\settingsTabs\\uc_Settings_TradeList.cs",
+              "RelativeDocumentMoniker": "settingsTabs\\uc_Settings_TradeList.cs",
+              "ToolTip": "D:\\GitHub\\settingsTabs\\settingsTabs\\uc_Settings_TradeList.cs [Design]",
+              "RelativeToolTip": "settingsTabs\\uc_Settings_TradeList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:26:19.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "email_list.json",
+              "DocumentMoniker": "D:\\GitHub\\settingsTabs\\settingsTabs\\Data\\email_list.json",
+              "RelativeDocumentMoniker": "settingsTabs\\Data\\email_list.json",
+              "ToolTip": "D:\\GitHub\\settingsTabs\\settingsTabs\\Data\\email_list.json",
+              "RelativeToolTip": "settingsTabs\\Data\\email_list.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T12:23:22.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "settingsForm.cs",
+              "DocumentMoniker": "D:\\GitHub\\settingsTabs\\settingsTabs\\settingsForm.cs",
+              "RelativeDocumentMoniker": "settingsTabs\\settingsForm.cs",
+              "ToolTip": "D:\\GitHub\\settingsTabs\\settingsTabs\\settingsForm.cs",
+              "RelativeToolTip": "settingsTabs\\settingsForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:04:25.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EmailData.cs",
               "DocumentMoniker": "D:\\GitHub\\settingsTabs\\settingsTabs\\Model\\EmailData.cs",
               "RelativeDocumentMoniker": "settingsTabs\\Model\\EmailData.cs",
               "ToolTip": "D:\\GitHub\\settingsTabs\\settingsTabs\\Model\\EmailData.cs",
               "RelativeToolTip": "settingsTabs\\Model\\EmailData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T10:22:37.71Z",
               "EditorCaption": ""
